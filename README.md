@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Saurabh5240.Saurabh5240" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prerak;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+There!+👋;+I'm+Saurabh+Sanjeev;+Glad+to+see+yaa👀👀" />
 </h1>
 
 <h3 align="center">I am a "Game Developer" .</h3>
@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently a 3rd year B.Tech student.
  
  🌱 I’m currently learning **AR/VR Environment and UI/UX**
 
 💬 Ask me about **C/C++, Python, Unity, Unreal... or anything [here](https://github.com/Saurabh5240/Saurabh5240/issues)**
 
-⚡ Fun fact **KARMA IS A B*tch.**
+⚡ Fun fact **This world can be a computer simulation,creation of someone else's mind.**
 
  </div>
  
@@ -36,12 +36,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino" />
-    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/ak5u4-du7li-001.ico" />
-    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/ay4bx-v3fps-001.ico" />
-    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/arhly-gvqg3-001.ico" />
-    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/ab42i-m91ek-001.ico" />
-    <img src="https://s10.aconvert.com/convert/p3r68-cdx67/as2tb-meg44-001.ico" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,cs,aws,mysql,unity,unreal" />
+    <br>
 </div>
 
 <br/>
@@ -52,7 +48,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div>-->
+</div>
 
 <hr/>
 
@@ -67,4 +63,4 @@
 
 <br/><br/>
 
-<hr/>
+<hr/>-->
