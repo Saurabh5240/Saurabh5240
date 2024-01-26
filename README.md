@@ -13,7 +13,7 @@
  
  🔭 I’m currently a 3rd year B.Tech student.
  
- 🌱 I’m currently learning **AR/VR Environment and UI/UX**
+ 🌱 I’m currently learning **AR/VR Environment and Data Analytics**
 
 💬 Ask me about **C/C++, Python, Unity, Unreal... or anything [here](https://github.com/Saurabh5240/Saurabh5240/issues)**
 
