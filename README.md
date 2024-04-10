@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+There!+👋;+I'm+Saurabh+Sanjeev;+Glad+to+see+yaa👀👀" />
 </h1>
 
-<h3 align="center">I am a "Game Developer" and a 'VR Developer' .</h3>
+<h3 align="center">I am a "Game Developer" and a 'AI&ML Enthusiast' .</h3>
 
 
 <br/>
@@ -13,7 +13,7 @@
  
  🔭 I’m currently a 3rd year B.Tech student.
  
- 🌱 I’m currently learning **AR/VR Environment and Data Analytics**
+ 🌱 I’m currently learning **Software Environment and about AI **
 
 💬 Ask me about **C/C++, Python, Unity, Unreal... or anything [here](https://github.com/Saurabh5240/Saurabh5240/issues)**
 
